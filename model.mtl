@@ -1,7 +1,7 @@
 # Blender 3.6.0 MTL File: 'None'
 # www.blender.org
 
-newmtl https://github.com/senseiseun/3-d-models/blob/main/texture_0.png?raw=true
+newmtl https://www.github.com/senseiseun/3-d-models/blob/main/texture_0.png?raw=true
 Ns 39.999996
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
@@ -9,4 +9,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd https://github.com/senseiseun/3-d-models/blob/main/Image_0.jpg?raw=true
+map_Kd https://www.github.com/senseiseun/3-d-models/blob/main/Image_0.jpg?raw=true
